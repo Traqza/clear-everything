@@ -1,7 +1,7 @@
 # clear-everything
-Laravel 5.7 artisan command to Clear routes, config, cache, views, compiled, and caches config.
+Laravel 6.* artisan command to Clear routes, config, cache, views, compiled, and caches config.
 
-Add repository to your laravel 5.7 project.
+Add repository to your laravel 6.* project.
 
 run `php artisan traqza:clear-everything` in composer and you're set!
 
