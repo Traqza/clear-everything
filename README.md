@@ -1,5 +1,5 @@
 # clear-everything
-Laravel 8.* artisan command to Clear routes, config, cache, views, compiled, and caches config.
+Laravel 6,7,8,9.* artisan command to Clear routes, config, cache, views, compiled, and caches config.
 
 Add repository to your laravel 8.* project.
 
